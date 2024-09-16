@@ -1,0 +1,326 @@
+[
+    {
+        "id": 1,
+        "headline": "Historical Sites",
+        "description": "Explore Pune's rich history and architectural marvels with these popular heritage sites!",
+        "sectionData": [
+            {
+                "id": 1,
+                "about": "Historical Sites",
+                "description": "Shaniwar Wada",
+                "url": "https://en.wikipedia.org/wiki/Shaniwar_Wada"
+            },
+            {
+                "id": 2,
+                "about": "Historical Sites",
+                "description": "Aga Khan Palace",
+                "url": "https://en.wikipedia.org/wiki/Aga_Khan_Palace"
+            },
+            {
+                "id": 3,
+                "about": "Historical Sites",
+                "description": "Sinhagad Fort",
+                "url": "https://en.wikipedia.org/wiki/Sinhagad_Fort"
+            },
+            {
+                "id": 4,
+                "about": "Historical Sites",
+                "description": "Kasba Peth",
+                "url": "https://en.wikipedia.org/wiki/Kasba_Peth"
+            },
+            {
+                "id": 5,
+                "about": "Historical Sites",
+                "description": "Lal Mahal",
+                "url": "https://en.wikipedia.org/wiki/Lal_Mahal"
+            },
+            {
+                "id": 6,
+                "about": "Historical Sites",
+                "description": "Kelkar Museum",
+                "url": "https://en.wikipedia.org/wiki/Kelkar_Museum"
+            },
+            {
+                "id": 7,
+                "about": "Historical Sites",
+                "description": "Chaturshrungi Temple",
+                "url": "https://en.wikipedia.org/wiki/Chaturshrungi_Temple"
+            },
+            {
+                "id": 8,
+                "about": "Historical Sites",
+                "description": "Vetal Tekdi",
+                "url": "https://en.wikipedia.org/wiki/Vetal_Tekdi"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "headline": "Religious Sites",
+        "description": "Seek blessings and find peace at these prominent religious shrines in Pune",
+        "sectionData": [
+            {
+                "id": 1,
+                "about": "Religious Sites",
+                "description": "Dagdusheth Halwai Ganapati Temple",
+                "url": "https://en.wikipedia.org/wiki/Dagdusheth_Halwai_Ganapati_Temple"
+            },
+            {
+                "id": 2,
+                "about": "Religious Sites",
+                "description": "Osho Ashram",
+                "url": "https://en.wikipedia.org/wiki/Osho_Ashram"
+            },
+            {
+                "id": 3,
+                "about": "Religious Sites",
+                "description": "ISKCON NVCC Temple",
+                "url": "https://iskconnvcc.org/"
+            },
+            {
+                "id": 4,
+                "about": "Religious Sites",
+                "description": "Pandavleni Caves",
+                "url": "https://en.wikipedia.org/wiki/Pandavleni_Caves"
+            },
+            {
+                "id": 5,
+                "about": "Religious Sites",
+                "description": "Pataleshwar Cave Temple",
+                "url": "https://en.wikipedia.org/wiki/Pataleshwar_Cave_Temple"
+            },
+            {
+                "id": 6,
+                "about": "Religious Sites",
+                "description": "Parvati Temple",
+                "url": "https://en.wikipedia.org/wiki/Parvati_Temple,_Pune"
+            },
+            {
+                "id": 7,
+                "about": "Religious Sites",
+                "description": "Ganesh Temple, Narayan Peth",
+                "url": "https://www.google.com/maps/place/Ganesh+Temple,+Narayan+Peth,+Pune,+Maharashtra/@18.519593,73.851997,15z/data=!4m5!3m4!1s0x3bc28708c5055999:0x35f2295032337207!8m2!3d18.519593!4d73.851997"
+            },
+            {
+                "id": 8,
+                "about": "Religious Sites",
+                "description": "Shreemant Dagdusheth Halwai Ganapati Temple",
+                "url": "https://en.wikipedia.org/wiki/Dagdusheth_Halwai_Ganapati_Temple"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "headline": "Food and Drinks",
+        "description": "Savor the flavors of Pune with these culinary delights",
+        "sectionData": [
+            {
+                "id": 1,
+                "about": "Food and Drinks",
+                "description": "Vada Pav",
+                "url": "https://en.wikipedia.org/wiki/Vada_pav"
+            },
+            {
+                "id": 2,
+                "about": "Food and Drinks",
+                "description": "Misal Pav",
+                "url": "https://en.wikipedia.org/wiki/Misal_pav"
+            },
+            {
+                "id": 3,
+                "about": "Food and Drinks",
+                "description": "Puran Poli",
+                "url": "https://en.wikipedia.org/wiki/Puran_poli"
+            },
+            {
+                "id": 4,
+                "about": "Food and Drinks",
+                "description": "Thalipeeth",
+                "url": "https://en.wikipedia.org/wiki/Thalipeeth"
+            },
+            {
+                "id": 5,
+                "about": "Food and Drinks",
+                "description": "Shrikhand",
+                "url": "https://en.wikipedia.org/wiki/Shrikhand"
+            },
+            {
+                "id": 6,
+                "about": "Food and Drinks",
+                "description": "Kanda Pohe",
+                "url": "https://www.vegrecipesofindia.com/kanda-pohe-recipe/"
+            },
+            {
+                "id": 7,
+                "about": "Food and Drinks",
+                "description": "Sabudana Khichdi",
+                "url": "https://www.vegrecipesofindia.com/sabudana-khichdi-recipe/"
+            },
+            {
+                "id": 8,
+                "about": "Food and Drinks",
+                "description": "Baramati Tamboli",
+                "url": "https://www.google.com/search?q=baramati+tambol"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "headline": "City Walks",
+        "description": "Explore Pune's streets and discover its hidden gems with these walking tours",
+        "sectionData": [
+            {
+                "id": 1,
+                "about": "City Walks",
+                "description": "Pune Heritage Walk",
+                "url": "https://www.puneheritagefoundation.org/"
+            },
+            {
+                "id": 2,
+                "about": "City Walks",
+                "description": "Koregaon Park Food Walk",
+                "url": "https://www.tripadvisor.in/Attraction_Review-g293882-d190593-Reviews-Koregaon_Park-Pune_Maharashtra.html"
+            },
+            {
+                "id": 3,
+                "about": "City Walks",
+                "description": "FC Road Shopping Walk",
+                "url": "https://www.google.com/maps/place/FC+Road,+Pune,+Maharashtra+411001,+India/@18.5201578,73.8530427,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc28712127169ff:0x72260b2a6282822f!8m2!3d18.5201578!4d73.8530427"
+            },
+            {
+                "id": 4,
+                "about": "City Walks",
+                "description": "Deccan Gymkhana Walk",
+                "url": "https://www.google.com/maps/place/Deccan+Gymkhana,+Pune,+Maharashtra+411004,+India/@18.5182393,73.8505012,17z/data=!3m1!4b1!4m5!3m4!1s0x3bc28712127169ff:0x72260b2a628"
+            },
+            {
+                "id": 5,
+                "about": "City Walks",
+                "description": "Pune Night Walk",
+                "url": "https://www.puneheritagefoundation.org/events/pune-night-walk/"
+            },
+            {
+                "id": 6,
+                "about": "City Walks",
+                "description": "Pune Old City Walk",
+                "url": "https://www.puneheritagefoundation.org/events/pune-old-city-walk/"
+            },
+            {
+                "id": 7,
+                "about": "City Walks",
+                "description": "Pune Art Walk",
+                "url": "https://www.puneheritagefoundation.org/events/pune-art-walk/"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "headline": "Pune Hill Stations",
+        "description": "Escape to the scenic hill stations near Pune for a relaxing getaway.",
+        "sectionData": [
+            {
+                "id": 1,
+                "about": "PUNE HILL STATIONS",
+                "description": "Lonavala Hill Station",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lonavala_Hill_Station.jpg/1024px-Lonavala_Hill_Station.jpg"
+            },
+            {
+                "id": 2,
+                "about": "PUNE HILL STATIONS",
+                "description": "Khandala Hill Station",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Khandala_Hill_Station.jpg/1024px-Khandala_Hill_Station.jpg"
+            },
+            {
+                "id": 3,
+                "about": "PUNE HILL STATIONS",
+                "description": "Matheran Hill Station",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Matheran_Hill_Station.jpg/1024px-Matheran_Hill_Station.jpg"
+            },
+            {
+                "id": 4,
+                "about": "PUNE HILL STATIONS",
+                "description": "Mahabaleshwar Hill Station",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Mahabaleshwar_Hill_Station.jpg/1024px-Mahabaleshwar_Hill_Station.jpg"
+            },
+            {
+                "id": 5,
+                "about": "PUNE HILL STATIONS",
+                "description": "Panchgani Hill Station",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Panchgani_Hill_Station.jpg/1024px-Panchgani_Hill_Station.jpg"
+            },
+            {
+                "id": 6,
+                "about": "PUNE HILL STATIONS",
+                "description": "Satara Hill Station",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Satara_Hill_Station.jpg/1024px-Satara_Hill_Station.jpg"
+            },
+            {
+                "id": 7,
+                "about": "PUNE HILL STATIONS",
+                "description": "Wai Hill Station",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Wai_Hill_Station.jpg/1024px-Wai_Hill_Station.jpg"
+            },
+            {
+                "id": 8,
+                "about": "PUNE HILL STATIONS",
+                "description": "Bhandardara Hill Station",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bhandardara_Hill_Station.jpg/1024px-Bhandardara_Hill_Station.jpg"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "headline": "Pune Forts",
+        "description": "Explore the rich history of Pune through its majestic forts.",
+        "sectionData": [
+            {
+                "id": 1,
+                "about": "PUNE FORTS",
+                "description": "Sinhagad Fort",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sinhagad_Fort_Pune.jpg/1024px-Sinhagad_Fort_Pune.jpg"
+            },
+            {
+                "id": 2,
+                "about": "PUNE FORTS",
+                "description": "Purandar Fort",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Purandar_Fort_Pune.jpg/1024px-Purandar_Fort_Pune.jpg"
+            },
+            {
+                "id": 3,
+                "about": "PUNE FORTS",
+                "description": "Torna Fort",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Torna_Fort_Pune.jpg/1024px-Torna_Fort_Pune.jpg"
+            },
+            {
+                "id": 4,
+                "about": "PUNE FORTS",
+                "description": "Rajgad Fort",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rajgad_Fort_Pune.jpg/1024px-Rajgad_Fort_Pune.jpg"
+            },
+            {
+                "id": 5,
+                "about": "PUNE FORTS",
+                "description": "Lohagad Fort",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lohagad_Fort_Pune.jpg/1024px-Lohagad_Fort_Pune.jpg"
+            },
+            {
+                "id": 6,
+                "about": "PUNE FORTS",
+                "description": "Visapur Fort",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Visapur_Fort_Pune.jpg/1024px-Visapur_Fort_Pune.jpg"
+            },
+            {
+                "id": 7,
+                "about": "PUNE FORTS",
+                "description": "Tikona Fort",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tikona_Fort_Pune.jpg/1024px-Tikona_Fort_Pune.jpg"
+            },
+            {
+                "id": 8,
+                "about": "PUNE FORTS",
+                "description": "Korigad Fort",
+                "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Korigad_Fort_Pune.jpg/1024px-Korigad_Fort_Pune.jpg"
+            }
+        ]
+    }
+]
